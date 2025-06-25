@@ -2,7 +2,7 @@
 template: document.html
 title: Inici
 cover:
-    title: Introducció a Git i la seua aplicació a l’aula
+    title: Introducció a Git i la seua aplicació a l'aula
     icon: simple/git
 hide:
   - navigation
@@ -34,7 +34,7 @@ per a la gestió de projectes i com en podem fer ús en l'àmbit educatiu.
 - Conéixer i aplicar estratègies de ramificació en projectes de desenvolupament de programari col·laboratiu.
 - Conéixer i utilitzar plataformes d'allotjament de repositoris en línia com GitHub.
 - Conéixer i utilitzar eines de gestió de projectes proporcionades per GitHub.
-- Promoure la utilització de Git i GitHub a l’aula com a eina de treball col·laboratiu.
+- Promoure la utilització de Git i GitHub a l'aula com a eina de treball col·laboratiu.
 - Proporcionar estratègies als docents per incorporar la utilització de Git i GitHub a l'aula.
 
 
